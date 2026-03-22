@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EMS.API/EMS.API.csproj" />
+    <Project Path="src/EMS.Application/EMS.Application.csproj" />
+    <Project Path="src/EMS.Domain/EMS.Domain.csproj" />
+    <Project Path="src/EMS.Infrastructure/EMS.Infrastructure.csproj" />
+    <Project Path="src/EMS.SharedKernel/EMS.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EMS.IntegrationTests/EMS.IntegrationTests.csproj" />
+    <Project Path="tests/EMS.UnitTests/EMS.UnitTests.csproj" />
+  </Folder>
+</Solution>
